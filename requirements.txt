@@ -1,0 +1,17 @@
+# Core Web Application
+streamlit>=1.40.0
+
+# Market Data Retrieval
+yfinance>=0.2.50
+
+# Data Analysis & Scientific Computing (Python 3.14 verified)
+numpy==2.5.2
+scipy==1.17.1
+pandas>=2.2.0
+
+# Visualizations
+plotly>=5.24.0
+matplotlib>=3.9.0
+
+# Machine Learning & Modeling
+scikit-learn>=1.5.0
